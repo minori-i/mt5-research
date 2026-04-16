@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ex5
+.env
+.venv/
+
+data/
+results/
